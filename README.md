@@ -15,7 +15,8 @@ The game of chess has many different derivatives, and `Pawns-Only Chess` is one 
 
 ### Winning and Loosing
 - If either player succeeds in moving one of their pawns to the last opposite rank (rank 8 for white and rank 1 for black), wins the game.
-` +---+---+---+---+---+---+---+---+
+```
+  +---+---+---+---+---+---+---+---+
 8 |   |   |   | W |   |   |   |   |
   +---+---+---+---+---+---+---+---+
 7 | B | B | B |   | B |   |   |   |
@@ -33,10 +34,12 @@ The game of chess has many different derivatives, and `Pawns-Only Chess` is one 
 1 |   |   |   |   |   |   |   |   |
   +---+---+---+---+---+---+---+---+
     a   b   c   d   e   f   g   h   
-White won!`
+White won!
+```
 
 - If one of the players runs out of pawns, the other player is the winner.
-` +---+---+---+---+---+---+---+---+
+``` 
+  +---+---+---+---+---+---+---+---+
 8 |   |   |   |   |   |   |   |   |
   +---+---+---+---+---+---+---+---+
 7 |   |   | B |   |   |   |   |   |
@@ -54,11 +57,13 @@ White won!`
 1 |   |   |   |   |   |   |   |   |
   +---+---+---+---+---+---+---+---+
     a   b   c   d   e   f   g   h   
-Black won!`
+Black won!
+```
 
 ### Stalemate or Draw
 - Stalemate or draw occurs when a player can't make a valid move on his/her turn.
-` +---+---+---+---+---+---+---+---+
+``` 
+  +---+---+---+---+---+---+---+---+
 8 |   |   |   |   |   |   |   |   |
   +---+---+---+---+---+---+---+---+
 7 |   |   |   |   |   |   |   |   |
@@ -76,4 +81,5 @@ Black won!`
 1 |   |   |   |   |   |   |   |   |
   +---+---+---+---+---+---+---+---+
     a   b   c   d   e   f   g   h   
-Stalemate, draw.`
+Stalemate, draw.
+```
