@@ -1,6 +1,6 @@
 # Pawns-Only Chess
 
-**A console based game called Pawns-Only Chess.**
+**A console based game called Pawns-Only Chess.**<br>
 [The idea of this project comes from https://hyperskill.org.]
 
 ## Description
