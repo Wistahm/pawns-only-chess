@@ -1,7 +1,6 @@
 # Pawns-Only Chess
 
-**A console based game called Pawns-Only Chess.**<br>
-[The idea of this project comes from https://hyperskill.org.]
+Pawns-Only Chess is a unique console-based chess game that I developed in Kotlin and it focuses solely on the pawn pieces.<br>
 
 ## Description
 
@@ -84,3 +83,5 @@ Black won!
     a   b   c   d   e   f   g   h   
 Stalemate, draw.
 ```
+<br>
+[The idea of this project comes from https://hyperskill.org.]
