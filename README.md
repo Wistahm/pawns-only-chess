@@ -4,7 +4,7 @@ Pawns-Only Chess is a unique console-based chess game that I developed in Kotlin
 
 ## Description
 
-The game of chess has many different derivatives, and `Pawns-Only Chess` is one of them. In simple words it's just chess but without other pieces; only pawns. The main difference is in the winning conditions. To see the rules of this game, head to the Rules section below.
+The game of chess has many different derivatives, and **Pawns-Only Chess** is one of them. In simple words it's just chess but without other pieces; only pawns. The main difference is in the winning conditions. To see the rules of this game, head to the Rules section below.
 
 ## Rules
 
