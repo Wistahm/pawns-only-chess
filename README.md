@@ -82,9 +82,8 @@ Black won!
   +---+---+---+---+---+---+---+---+
     a   b   c   d   e   f   g   h   
 Stalemate, draw.
-<<<<<<< HEAD
 ```
-=======
+
 ```
 <br>
 [The idea of this project comes from https://hyperskill.org.]
