@@ -84,7 +84,4 @@ Black won!
 Stalemate, draw.
 ```
 
-```
-<br>
-[The idea of this project comes from https://hyperskill.org.]
->>>>>>> 6c65dcec10db561dfd6f74a14b3e9abc8b02acf1
+The idea of this project comes from https://hyperskill.org.
