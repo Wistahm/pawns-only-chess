@@ -1,6 +1,6 @@
 # Pawns-Only Chess
 
-Pawns-Only Chess is a unique console-based chess game that I developed in Kotlin about a year age and it focuses solely on the pawn pieces.
+Pawns-Only Chess is a unique console-based chess game that I developed in Kotlin and it focuses solely on the pawn pieces.
 
 ## Description
 
